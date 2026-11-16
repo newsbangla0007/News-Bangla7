@@ -1,0 +1,8 @@
+{
+  "name": "News Bangla 7",
+  "description": "কলকাতা- ৭০০০০০১\n\nগাইঘাটা, চাঁদপাড়া, উত্তর ২৪ পরগনা,৭৪৩২৪৫",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
